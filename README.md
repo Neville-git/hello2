@@ -6,3 +6,4 @@ step3 commit
 
 Still another change/branch
 i will now add  still another branch
+much later saturday and i am checking the procedures. I now commit compare and pull hopefully
